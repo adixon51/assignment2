@@ -1,3 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: helvetica;
+}
+
 img {
     box-shadow: 3px 3px #ba3333;
 }
@@ -22,3 +30,4 @@ img {
 .blue-border {
     border: 5px blue dotted; 
 }
+
